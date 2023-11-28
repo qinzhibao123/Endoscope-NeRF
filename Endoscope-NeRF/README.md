@@ -4,7 +4,7 @@ We propose an Endoscope-NeRF network for implicit radiance fields reconstruction
 ## Installation
 Clone this repo with submodules:
 ```
-git clone --recurse-submodules [https://github.com/googleinterns/IBRNet](https://github.com/qinzhibao123/Endoscope-NeRF)
+git clone --recurse-submodules https://github.com/qinzhibao123/Endoscope-NeRF
 cd Endoscope-NeRF/
 ```
 
